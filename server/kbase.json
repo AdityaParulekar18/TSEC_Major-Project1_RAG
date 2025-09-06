@@ -1,0 +1,100 @@
+{
+  "knowledge_base": [
+    {
+      "crop": "wheat",
+      "disease": "Smut",
+      "symptoms": "Infected wheat heads are replaced by black, powdery masses of spores; heads emerge earlier and appear darker; can reduce grain quality and yield.",
+      "causes": "Caused by the fungus Ustilago tritici (Loose Smut) or similar smut fungi; seedborne infection where the fungus survives in the embryo of the seed.",
+      "treatment": "Treat seeds with systemic fungicides; commercial seed treatment is recommended; hot water treatment can eliminate fungi but must be done carefully to avoid reducing seed vitality.",
+      "prevention": "Use certified smut-free seed; plant resistant varieties; avoid planting infected seeds; long-term solution involves seed treatment and variety selection."
+    },
+    {
+      "crop": "wheat",
+      "disease": "Leaf Blight",
+      "symptoms": "Small, irregular tan to brown lesions on leaves that may coalesce into larger dead areas; chlorotic halos around spots; can lead to premature leaf death and reduced yield.",
+      "causes": "Caused by fungi such as Septoria tritici or Stagonospora nodorum; favored by cool, wet conditions and residue from previous crops.",
+      "treatment": "Apply fungicides containing triazoles or strobilurins when disease is detected early; multiple applications may be needed in severe cases.",
+      "prevention": "Plant resistant varieties; practice crop rotation and residue management to reduce inoculum; avoid excessive nitrogen fertilization; timely planting to avoid favorable conditions."
+    },
+    {
+      "crop": "wheat",
+      "disease": "Brown Rust",
+      "symptoms": "Small, orange-red to brown pustules on leaves, stems, and heads; pustules rupture to release spores; severe infections cause leaf yellowing and defoliation.",
+      "causes": "Caused by the fungus Puccinia triticina; spores spread by wind; favored by moderate temperatures (60-75°F) and high humidity.",
+      "treatment": "Apply fungicides like triazoles or strobilurins at flag leaf stage if disease pressure is high; monitor for race shifts that may require adjusted applications.",
+      "prevention": "Plant resistant varieties; early detection through scouting; remove volunteer wheat; balanced fertilization and avoid dense planting."
+    },
+    {
+      "crop": "wheat",
+      "disease": "Healthy",
+      "symptoms": "No visible symptoms; leaves are green and uniform; plants show vigorous growth, normal head development, and no discoloration or spots.",
+      "causes": "N/A - Indicates absence of disease or pest issues.",
+      "treatment": "N/A - Maintain good agricultural practices to keep plants healthy.",
+      "prevention": "Regular monitoring, balanced nutrition, proper irrigation, and use of certified seeds to prevent disease introduction."
+    },
+    {
+      "crop": "rice",
+      "disease": "Bacterial Leaf Blight",
+      "symptoms": "Water-soaked streaks on leaf blades that enlarge and turn yellow to brown; lesions may cause wilting (kresek phase) or pale yellow leaves; severe cases lead to seedling death.",
+      "causes": "Caused by the bacterium Xanthomonas oryzae pv. oryzae; spread through infected seeds, water, and wind-driven rain; favored by warm temperatures (77-86°F) and high humidity.",
+      "treatment": "Limited chemical treatments; antibiotics like streptomycin can be used but resistance is common; biocontrol agents such as antagonistic bacteria may help reduce severity.",
+      "prevention": "Plant resistant varieties; use certified disease-free seeds; manage water levels to avoid flooding; avoid excessive nitrogen; crop rotation and sanitation of fields."
+    },
+    {
+      "crop": "rice",
+      "disease": "Brown Spot",
+      "symptoms": "Small, circular to oval brown spots on leaves, sheaths, and grains; spots may have yellow halos; severe infections cause leaf drying and reduced grain quality.",
+      "causes": "Caused by the fungus Bipolaris oryzae; often associated with nutrient deficiencies (e.g., potassium); favored by stressed plants, high humidity, and moderate temperatures.",
+      "treatment": "Apply fungicides such as mancozeb or propiconazole if detected early; improve plant nutrition to reduce susceptibility.",
+      "prevention": "Plant resistant varieties; ensure balanced fertilization, especially potassium; avoid water stress; use certified seeds; crop rotation and residue removal."
+    },
+    {
+      "crop": "rice",
+      "disease": "Leaf Blast",
+      "symptoms": "Diamond-shaped lesions on leaves with gray centers and brown borders; lesions expand and may coalesce; severe cases cause neck rot and panicle blasting.",
+      "causes": "Caused by the fungus Magnaporthe oryzae; spread by spores in air and water; favored by high humidity (>90%), night temperatures above 68°F, and nitrogen excess.",
+      "treatment": "Apply fungicides like tricyclazole or strobilurins at late boot stage and heading; multiple applications may be needed in high-pressure areas.",
+      "prevention": "Plant resistant varieties; avoid excessive nitrogen; manage water to reduce leaf wetness; silicon amendments; destroy crop residues and volunteers."
+    },
+    {
+      "crop": "rice",
+      "disease": "Healthy",
+      "symptoms": "No visible symptoms; leaves are green and uniform; plants exhibit normal tillering, panicle development, and grain filling without spots or wilting.",
+      "causes": "N/A - Indicates optimal growing conditions without pathogen presence.",
+      "treatment": "N/A - Continue monitoring and standard care.",
+      "prevention": "Use best management practices including resistant varieties, proper spacing, and nutrient management to maintain health."
+    },
+    {
+      "crop": "maize",
+      "disease": "Blight",
+      "symptoms": "Long, elliptical gray-green to tan lesions on leaves; lesions may have wavy margins and coalesce; severe infections cause leaf death and yield loss.",
+      "causes": "Caused by the fungus Exserohilum turcicum (Northern Corn Leaf Blight); overwinters in crop residue; favored by cool, humid weather.",
+      "treatment": "Apply fungicides containing strobilurins or triazoles during early vegetative stages if disease is present; scout regularly.",
+      "prevention": "Plant resistant hybrids; rotate crops; till residues into soil; avoid dense planting; manage irrigation to reduce leaf wetness."
+    },
+    {
+      "crop": "maize",
+      "disease": "Common Rust",
+      "symptoms": "Brick-red to brown pustules on both sides of leaves; pustules elongate and rupture to release spores; severe cases cause leaf chlorosis and premature drying.",
+      "causes": "Caused by the fungus Puccinia sorghi; requires two hosts (corn and oxalis); favored by cool temperatures (60-76°F), high humidity, and dew.",
+      "treatment": "Fungicides like mancozeb or triazoles if infection is early and severe; generally not economical unless yield impact is high.",
+      "prevention": "Plant resistant hybrids; remove alternate hosts if present; ensure good air circulation; monitor weather for favorable conditions."
+    },
+    {
+      "crop": "maize",
+      "disease": "Gray Leaf Spot",
+      "symptoms": "Rectangular, tan to gray lesions confined by veins on leaves; lesions elongate (up to 2 inches) and may coalesce; appears on lower leaves first.",
+      "causes": "Caused by the fungus Cercospora zeae-maydis; survives in crop residue; favored by warm, humid conditions and continuous corn planting.",
+      "treatment": "Apply foliar fungicides (e.g., strobilurins) at tasseling if disease threshold is met; timing is critical for effectiveness.",
+      "prevention": "Plant resistant hybrids; rotate crops (at least 1-2 years); tillage to bury residues; reduce plant density for better airflow."
+    },
+    {
+      "crop": "maize",
+      "disease": "Healthy",
+      "symptoms": "No visible symptoms; leaves are dark green and free of spots or pustules; plants show strong stalk, normal ear development, and high vigor.",
+      "causes": "N/A - Absence of biotic and abiotic stresses.",
+      "treatment": "N/A - Sustain with proper management.",
+      "prevention": "Integrated pest management, soil testing, and hybrid selection to prevent issues."
+    }
+  ]
+}
