@@ -1,4 +1,4 @@
-🌾 RAG-Enabled Early Disease & Pest Detection in Crops
+Project Topic:- RAG-Enabled Early Disease & Pest Detection in Crops
 
 📌 Project Description
 This project is a CNN + RAG powered web application that helps farmers and researchers detect crop diseases and pests early using images.
